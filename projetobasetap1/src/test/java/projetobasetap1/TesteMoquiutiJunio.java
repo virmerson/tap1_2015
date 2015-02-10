@@ -1,5 +1,5 @@
 package projetobasetap1;
 
 public class TesteMoquiutiJunio {
- //zatara
+ int i = 0;
 }
